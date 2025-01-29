@@ -1,1 +1,2 @@
-![AtividadeObserverState drawio](https://github.com/user-attachments/assets/c096e554-0431-460e-bd00-beaef41dc0d5)
+
+![AtividadeObserverState drawio](https://github.com/user-attachments/assets/3d9d3d6f-5536-454d-8e33-db1c1e99052a)
